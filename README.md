@@ -8,4 +8,5 @@ FrostHubUI/FrostHub - source code
 FrostHubUI.rar - the ui
 
 You can customize the lua highlighting at /FrostBin/FrostLua if you don't like it
+
 Type rainbow on the textbox above reset button on settings for rainbow
