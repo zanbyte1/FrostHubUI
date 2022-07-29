@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\FrostHubUI\FrostHub\obj\Debug\FrostHub.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FrostHubUI\FrostHub\obj\Debug\FrostHub.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\FrostHubUI\FrostHub\obj\Debug\app.baml
+C:\Users\Admin\source\repos\FrostHubUI\FrostHub\obj\Debug\sresource.baml
+C:\Users\Admin\source\repos\FrostHubUI\FrostHub\obj\Debug\1timewindow.g.cs
+C:\Users\Admin\source\repos\FrostHubUI\FrostHub\obj\Debug\app.g.cs
+C:\Users\Admin\source\repos\FrostHubUI\FrostHub\obj\Debug\mainwindow.g.cs
+C:\Users\Admin\source\repos\FrostHubUI\FrostHub\obj\Debug\scriptcwindow.g.cs
+C:\Users\Admin\source\repos\FrostHubUI\FrostHub\obj\Debug\settingswindow.g.cs
+C:\Users\Admin\source\repos\FrostHubUI\FrostHub\obj\Debug\tabewindow.g.cs
+C:\Users\Admin\source\repos\FrostHubUI\FrostHub\obj\Debug\FrostHub_MarkupCompile.cache
+C:\Users\Admin\source\repos\FrostHubUI\FrostHub\obj\Debug\FrostHub_MarkupCompile.lref
